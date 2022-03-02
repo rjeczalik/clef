@@ -1,3 +1,3 @@
-module rafal.dev/slurp
+module rafal.dev/clev
 
 go 1.18
