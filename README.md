@@ -1,7 +1,7 @@
-# slurp
+# clev
 
 ### Getting started
 
 ```bash
-$ go install rafal.dev/slurp@latest
+$ go install rafal.dev/clev@latest
 ```
