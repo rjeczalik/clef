@@ -1,7 +1,7 @@
-# clev
+# clef
 
 ### Getting started
 
 ```bash
-$ go install rafal.dev/clev@latest
+$ go install rafal.dev/clef@latest
 ```
